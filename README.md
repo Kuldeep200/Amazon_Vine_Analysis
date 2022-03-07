@@ -9,7 +9,12 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 How many Vine reviews and non-Vine reviews were there?
 ![image](https://user-images.githubusercontent.com/93456209/156956873-1ab9e06c-4d68-4969-a91f-47b9cd952ce1.png)
 
+
+
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+
 ![image](https://user-images.githubusercontent.com/93456209/156956436-4970461a-6b5b-456b-a71f-844afa653853.png)
 
 
